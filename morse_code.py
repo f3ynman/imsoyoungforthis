@@ -80,5 +80,5 @@ def main():                          #select one of these and run, decode or enc
 
 main()
 
-input("done\npress enter key to exit")
+input("done\npress enter to exit")
 
